@@ -1,10 +1,10 @@
-<h1 align="center">Olá, eu sou o Reuel! :smile:</h1>
+<h1>Olá, eu sou o Reuel! :smile:</h1>
 
-  <p align="center">
+  <p>
 Meu nome é Reuel Ferreira, sou <strong> Desenvolvedor Web Full-Stack </strong> desde 2022, atualmente estou terminando o curso de desenvolvimento full-stack da <a href="https://cubos.academy/">@cubosacademy</a> e buscando aprendizado e experiência realizando projetos variados com diversas linguagens.
   </p>
 
-### Conhecimento em:
+<h3>Conhecimento em:</h3>
 
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -14,7 +14,7 @@ Meu nome é Reuel Ferreira, sou <strong> Desenvolvedor Web Full-Stack </strong> 
 ![nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-![reuel02 GitHub stats](https://github-readme-stats.vercel.app/api?username=reuel02&show_icons=true&theme=radical)
+![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=reuel02&size_weight=0.5&count_weight=0.5&theme=radical)
 
 ### Contato: 
 
