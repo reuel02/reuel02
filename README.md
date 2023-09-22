@@ -1,4 +1,4 @@
-<h1>Olá, eu sou o Reuel! :smile:</h1>
+<h1>Olá, Bem vindo ao meu GitHub! :smile:</h1>
 
   <p>
 Meu nome é Reuel Ferreira, sou <strong> Desenvolvedor Web Full-Stack </strong> desde 2022, atualmente estou terminando o curso de desenvolvimento full-stack da <a href="https://cubos.academy/">@cubosacademy</a> e buscando aprendizado e experiência realizando projetos variados com diversas linguagens.
