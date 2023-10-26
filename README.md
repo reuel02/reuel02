@@ -18,7 +18,6 @@ Meu nome é Reuel Ferreira, sou <strong> Desenvolvedor Web Full-Stack </strong> 
 <div>
 <a href="https://github.com/reuel02">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reuel02&layout=compact&langs_count=7&theme=dracula&hide=jupyter-notebook&exclude_repo=bioinfo_datascience_and_analysis"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=reuel02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Contato: 
